@@ -11,7 +11,7 @@ It will install crappy (not so fast for me)
 Install in default bin folder (simply don't change nothing and click next everytime)
 
 After install JDownloader, extract the released binary from this repo in Application Folder (or wherever you want)
-https://github.com/mccoy88f/JDownloader-Launcher-M1-ARM64/releases/download/0.1/JDLauncher.M1.v0.1.zip
+(see latest release)
 
 Simply Launch it and Works!
 
