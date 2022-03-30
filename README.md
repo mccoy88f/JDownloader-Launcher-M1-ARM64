@@ -25,3 +25,8 @@ For other problem open issue just to share.
 I will not resolve it beacuse this isn't an app, is a trick 🤟
 We hope JDownloader will soon fix creating a native M1 APP
 Greetings from Italy
+
+UPDATE 29 March 2022
+Official M1 version on JDownloader official page released.
+Use that please. Now close this repo.
+Thanks to all
